@@ -1,6 +1,6 @@
 ## Velkomin á heimasíðu vélmenna áfanga Tækniskólans
 
-[Image](../rob2b3u/skyrsla/img/rob2b3u_img.jpg)
+[Image](https://github.com/eirben/rob2b3u/skyrsla/img/rob2b3u_img.jpg)
 
 You can use the [editor on GitHub](https://github.com/eirben/eirben.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
