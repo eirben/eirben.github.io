@@ -1,5 +1,5 @@
-## Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans ![Image](/img/tskoli.png)
-<p align="center"> <img width="300" height="30" src="/img/tskoli.png"></p>
+## Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans
+<p align="center"> <img width="350" height="40" src="/img/tskoli.png"></p>
 ![Image](/img/rob2b3u_img.png)
 
 You can use the [editor on GitHub](https://github.com/eirben/eirben.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
