@@ -1,4 +1,4 @@
-## Velkomin á heimasíðu vélmenna áfanga Tækniskólans
+## Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans ![Image](/img/tskoli.png)
 
 ![Image](/img/rob2b3u_img.png)
 
