@@ -1,5 +1,5 @@
 ## Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans
-<p align="center"> <img width="350" height="40" src="/img/velmenniogforseti.png"></p>
+<p align="center"> <img width="945" height="345" src="/img/velmenniogforseti.png"></p>
 ![Image](/img/rob2b3u_img.png)
 
 You can use the [editor on GitHub](https://github.com/eirben/eirben.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
