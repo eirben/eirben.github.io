@@ -102,6 +102,7 @@ Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarka
   from {opacity: .4} 
   to {opacity: 1}
 }
+<script src="js/main.js" type="text/javascript">
 var slideIndex = 1;
 showSlides(slideIndex);
 function plusSlides(n) {
@@ -110,7 +111,6 @@ function plusSlides(n) {
 function currentSlide(n) {
   showSlides(slideIndex = n);
 }
-<script src="js/main.js" type="text/javascript">
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
