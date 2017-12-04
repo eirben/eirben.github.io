@@ -1,5 +1,5 @@
 ## Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans
-<p align="center"> <img width="945" height="539" src="/img/velmenniogforseti.png" alt=""Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland>
+<p align="center"> <img width="945" height="539" src="/img/velmenniogforseti.png" alt="Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland">
 Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland</p>
 <br>
 Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarkar), ROB2A3U og ROB2B3U. Fyrri áfangan geta nemendur farið í að loknum 3.önnum og 4.áfangan í önn 5 eða 6. 
