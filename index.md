@@ -1,8 +1,7 @@
 ## Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans
 <p align="center"> <img width="945" height="539" src="/img/velmenniogforseti.png"></p>
 
-
-You can use the [editor on GitHub](https://github.com/eirben/eirben.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarkar), ROB2A3U og ROB2B3U. Fyrri áfangan geta nemendur farið í að loknum 3.önnum og 4.áfangan í önn 5 eða 6. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
