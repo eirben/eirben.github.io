@@ -1,7 +1,7 @@
 ## Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans
 <p align="center"> <img width="945" height="539" src="/img/velmenniogforseti.png" alt="Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland"></p>
 Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland"
-
+<br/>
 Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarkar), ROB2A3U og ROB2B3U. Fyrri áfangan geta nemendur farið í að loknum 3.önnum og 4.áfangan í önn 5 eða 6. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
