@@ -7,14 +7,14 @@ Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarka
 <div>
     <div style="float:left;margin-right:5px;">
         <img src="/img/rob2b3u_img.png" style="width:50%">
-        <p style="text-align:center;">Prentari</p>
+        <p style="text-align:left;">Prentari</p>
     </div>
     <div style="float:left;margin-right:5px;">
         <img src="/img/syning_lokaverkefni_rbob_h13_1.png" style="width:50%">
-        <p style="text-align:center;">Undirbúningur fyrir sýningu</p>
+        <p style="text-align:left;">Undirbúningur fyrir sýningu</p>
     </div>
     <div style="float:left;margin-right:5px;">
         <img src="/img/DSC_0004.JPG" style="width:50%">
-        <p style="text-align:center;">Sérhæft klifur vélmenni</p>
+        <p style="text-align:left;">Sérhæft klifur vélmenni</p>
     </div>
 </div>
