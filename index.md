@@ -8,8 +8,11 @@ Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarka
         <div style="float:left;margin-right:5px;">
         <img src="/img/rob2b3u_img.png" style="width:50%">
             <div style="float:left;margin-right:5px;">
-        <img src="/img/syning_lokaverkefni_rbob_h13_1.png" style="width:50%">
-                <div style="float:left;margin-right:5px;">
-        <img src="/img/DSC_0004.JPG" style="width:50%">
-   </div></div></div></div>
+                <img src="/img/syning_lokaverkefni_rbob_h13_1.png" style="width:50%">
+                    <div style="float:left;margin-right:5px;">
+                        <img src="/img/DSC_0004.JPG" style="width:50%">
+                    </div>
+            </div>
+        </div>
+    </div>
 </div>
