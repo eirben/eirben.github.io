@@ -2,7 +2,7 @@
 # Velkomin á heimasíðu Vélmennaáfanga Tækniskólans
 <p align="center"> <img width="400" height="300" src="/img/velmenniogforseti.png" alt="Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland"><br>
 Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland</p>
-Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarkar), ROB2A3U og ROB2B3U. Fyrri áfangan geta nemendur farið í að loknum 3.önnum og 4.áfangan á önn 5 eða 6.
+Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarkar).  Nemendum áfangans gefts stundum færi á að taka þátt í keppnum hér heima eða erlendis sem og sýningum t.d í Hörpu
 
 Tilgangur áfanganna er að gefa nemendum kost á að tengja hugbúnað og vélbúnað saman, fá skilning á því með því að búa til sín eigin vélmenni og skrifa hugbúnað fyrir það. Það góða við þessa áfanga er að nemendur nýta sér sína þekkingu í stærðfræði, eðlisfræði og hugbúnaðargerð á eina og sama vettfanginu. Námsefni er frá kennara þ.e mér og Carnegie Mellon háskólanum í U.S.A og vélbúnaður og hugbúnaður frá Vexrobotics <a href="http://vexrobotics.com">Vex EDR</a>
 <div style="float:left;margin-right:5px;">
