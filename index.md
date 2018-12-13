@@ -9,6 +9,7 @@ Tilgangur áfanganna er að gefa nemendum kost á að tengja hugbúnað og vélb
     <img src="/img/syning_lokaverkefni_rbob_h13_2.png" style="width:33%">
             <img src="/img/syning_lokaverkefni_rbob_h13_1.png" style="width:33%">
                     <img src="/img/DSC_0004.JPG" style="width:33%">
+                            <img src="/img/DSC_0003.JPG" style="width:33%">
 </div>
 <p align="center"> Nemendur að prófa vélmenni </p>
 ## Áfangalýsing Vélmenni I
