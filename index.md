@@ -16,14 +16,7 @@ Tilgangur áfanganna er að gefa nemendum kost á að tengja hugbúnað og vélb
 Í áfanganum kynnast nemendur vélmennum, hvað er vélmenni og hvaða tækni er notuð. Nemendur kynnast lausnaraðferðum, verkefnastjórnun, samvinnu og að nýta sér þá þekkingu í stærðfræði, eðlisfræði og forritun sem þeir hafa þegar vald á. Eftirfarandi námsþættir verða kenndir: Niðurbrot vandamála úr flókinni hegðun í einafalda hegðun (Behavior ) gerð flæðirita og sauðakóða og að lokum forritun sem vélmenni skilur. Hreyfing (fram,aftur,snúningur) tími og staða. Fjarstýringar (bylgjufræði) og nemar.
 
 ## Áfangalýsing Vélmenni II
-Í áfanganum leysa nemendur stórt verkefni sem nemendur hanna sjálfir með annað hvort VEX cortex , Rasberry PI, Vex V5 eða Arduino smátölvum. Nemendur gera verkáætlun þar sem verkefnið er brotið niður í minnstu einingar. Logskrár, verkefnalýsing, auðlindir þ.e vébúnaður og hugbúnaður sem þarf, flæðirit og sauðakóði og innleiðing. Öllu er steypt saman í lokaskýrslu .
-[Verkefni áfangans](./rob2b.md)
-## Inngangur
-Hér skal gera lýsingu á verkefninu þ.e hvað,  hvernig og  hvaða forritunarmál, fyrir hverja og hvaða notagildi verkefnið hefur. 
-Minnst 500 orð. Notagildi skiptir miklumáli, reynið að sjá fyrir ykkur hverjir geti notað vélmennið ykkar og í hvaða tilgangi.  
-Þá kemur í ljós að 500 orð er frekar lítið :-) Hér er gott að byrja á því að lesa til um Arduino,Rasberry PI, V5 EDR eða VEX EDR en allt hjá þeim er open-sourse eða næstum því :-(
-og svo er hægt að lesa sér til um efnið í útgefnum bókum sem "programming Arduino" Hér er gott að lýsa högun kerfisins með orðum og
-mynd sem þið getið gert í draw.io sjá mynd:  ATH!! muna að setja ykkar eigin texta hér og taka minn út. Það að vinna sjálfstætt er algjör nauðsyn þ.e þið finnið mismunandi leiðir til að leysa verkefnið og ekki víst að kennari hafi lausnir á öllu þó góður sé.
-Myndin er af högun kerfis sem ég gerði fyrir arduino, ekki nota hana, hannið og notið ykkar eigin högun.
+Í áfanganum leysa nemendur stórt verkefni sem nemendur hanna sjálfir með annað hvort VEX cortex , Rasberry PI, Vex V5 eða Arduino smátölvum. Nemendur gera verkáætlun þar sem verkefnið er brotið niður í minnstu einingar. Logskrár, verkefnalýsing, auðlindir þ.e vébúnaður og hugbúnaður sem þarf, flæðirit og sauðakóði og innleiðing. Öllu er steypt saman í lokaskýrslu.
 
-![Mynd af högun kerfis](https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png)
+[Verkefni áfangans](./rob2b.md)
+
