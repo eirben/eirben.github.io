@@ -1,3 +1,5 @@
+#<p align="center">
+Velkomin á heimasíðu Vélmennaáfanga Tækniskólans </p>
 <p align="center"> <img width="500" height="400" src="/img/velmenniogforseti.png" alt="Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland"><br>
 Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland</p>
 <br>
