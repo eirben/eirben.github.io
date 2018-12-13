@@ -6,7 +6,7 @@ Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarka
 
 Tilgangur áfanganna er að gefa nemendum kost á að tengja hugbúnað og vélbúnað saman, fá skilning á því með því að búa til sín eigin vélmenni og skrifa hugbúnað fyrir það. Það góða við þessa áfanga er að nemendur nýta sér sína þekkingu í stærðfræði, eðlisfræði og hugbúnaðargerð á eina og sama vettfanginu. Námsefni er frá kennara þ.e mér og Carnegie Mellon háskólanum í U.S.A og vélbúnaður og hugbúnaður frá Vexrobotics <a href="http://vexrobotics.com">Vex EDR</a>
 <div style="float:left;margin-right:5px;">
-    <img src="/img/syning_lokaverkefni_rbob_h13_2" style="width:33%">
+    <img src="/img/syning_lokaverkefni_rbob_h13_2.png" style="width:33%">
             <img src="/img/syning_lokaverkefni_rbob_h13_1.png" style="width:33%">
                     <img src="/img/DSC_0004.JPG" style="width:33%">
 </div>
