@@ -10,4 +10,4 @@ Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarka
                     <img src="/img/DSC_0004.JPG" style="width:23%">
 </div>
 
-* [Verkefni 1](rob2a/verkefni1/verkefni1.md) Samsetning á vélmenni	15% 
+* [Verkefni 1](rob2b3u/wiki) Samsetning á vélmenni	15% 
