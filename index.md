@@ -9,5 +9,5 @@ Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarka
             <img src="/img/syning_lokaverkefni_rbob_h13_1.png" style="width:23%">
                     <img src="/img/DSC_0004.JPG" style="width:23%">
 </div>
-
-* [Verkefni 1](https://github.com/eirben/rob2b3u/wiki) Samsetning á vélmenni	15% 
+## Áfangalýsing Vélmenni II
+Í áfanganum leysa nemendur stórt verkefni sem nemendur hanna sjálfir með annað hvort VEX eða Arduino smátölvum. Nemendur gera verkáætlun þar sem verkefnið er brotið niður í minnstu einingar. Logskrár, verkefnalýsing, auðlindir þ.e vébúnaður og hugbúnaður sem þarf, flæðirit og sauðakóði og innleiðing. Öllu er steypt saman í lokaskýrslu .
