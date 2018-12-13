@@ -17,6 +17,7 @@ Tilgangur áfanganna er að gefa nemendum kost á að tengja hugbúnað og vélb
 
 ## Áfangalýsing Vélmenni II
 Í áfanganum leysa nemendur stórt verkefni sem nemendur hanna sjálfir með annað hvort VEX cortex , Rasberry PI, Vex V5 eða Arduino smátölvum. Nemendur gera verkáætlun þar sem verkefnið er brotið niður í minnstu einingar. Logskrár, verkefnalýsing, auðlindir þ.e vébúnaður og hugbúnaður sem þarf, flæðirit og sauðakóði og innleiðing. Öllu er steypt saman í lokaskýrslu.
-{% include ./rob2b.md %}
+
+{% include_relative ./rob2b.md %}
 [Verkefni áfangans](./rob2b.md)
 
