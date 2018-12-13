@@ -1,6 +1,6 @@
 
 # Velkomin á heimasíðu Vélmennaáfanga Tækniskólans
-<p align="center"> <img width="400" height="300" src="/img/velmenniogforseti.png" alt="Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland"><br>
+<p align="center"> <img width="500" height="300" src="/img/velmenniogforseti.png" alt="Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland"><br>
 Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland</p>
 Upplýsinga tækniskólinn býður uppá tvo áfanga í vélmenna gerð (Þjarkar).  Nemendum áfangans gefts stundum færi á að taka þátt í keppnum hér heima eða erlendis (First Global) sem og sýningum t.d í Hörpu og Háskólabíó
 
