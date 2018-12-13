@@ -7,4 +7,4 @@ mynd sem þið getið gert í draw.io sjá mynd:  ATH!! muna að setja ykkar eig
 Myndin er af högun kerfis sem ég gerði fyrir arduino, ekki nota hana, hannið ykkar eigin högun.
 ![Mynd af högun kerfis](https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png)
 
-![Til baka](./index.md)
+[Til baka](./index.md)
