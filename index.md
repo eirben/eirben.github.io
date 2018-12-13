@@ -1,4 +1,4 @@
-## Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans
+# Velkomin á heimasíðu vélmenna áfanga Upplýsinga Tækniskólans
 <p align="center"> <img width="500" height="400" src="/img/velmenniogforseti.png" alt="Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland"><br>
 Nemendur, kennari og skólastjóri í heimsókn hjá forseta Ísland</p>
 <br>
