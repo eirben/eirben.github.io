@@ -6,7 +6,7 @@ og svo er hægt að lesa sér til um efnið í útgefnum bókum sem "programming
 mynd sem þið getið gert í draw.io sjá mynd.  ATH!! muna að setja ykkar eigin texta hér og taka minn út. Það að vinna sjálfstætt er algjör nauðsyn þ.e þið finnið mismunandi leiðir til að leysa verkefnið og ekki víst að kennari hafi lausnir á öllu þó góður sé.
 Myndin er af högun kerfis sem ég gerði fyrir arduino, ekki nota hana, hannið ykkar eigin högun.
 <p align="center">
-  <img src="../img/system.png" width="350" title="hover text">
+  <img src="./rob2b3u/skyrsla/img/system.png" width="350" title="hover text">
 </p>
 ![Mynd af högun kerfis](../img/system.png)
 
