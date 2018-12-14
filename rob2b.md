@@ -9,5 +9,5 @@ Myndin er af högun kerfis sem ég gerði fyrir arduino, ekki nota hana, hannið
   <img src="https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png" width="350" title="Mynd af högun kerfis">
 </p>
 
-[Til baka](./)
+[Til baka](./index)
 
