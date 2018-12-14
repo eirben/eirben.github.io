@@ -8,7 +8,7 @@ Myndin er af högun kerfis sem ég gerði fyrir arduino, ekki nota hana, hannið
 <p align="center">
   <img src="https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png" width="350" title="Mynd af högun kerfis">
 </p>
-![Image of Yaktocat](https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png)
+[Image of Yaktocat](https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 [Til baka](./index)
 
