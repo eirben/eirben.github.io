@@ -8,5 +8,5 @@ Myndin er af högun kerfis sem ég gerði fyrir arduino, ekki nota hana, hannið
 
 ![Mynd af högun kerfis](https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png)
 
-[Til baka](../index.md)
+[Til baka](../)
 
