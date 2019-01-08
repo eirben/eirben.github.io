@@ -3,7 +3,7 @@ layout: default
 --
 [include](File:./README.md).
 
-# Vélmenni I og Vélmenn
+# Vélmenni I og Vélmenni II
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
