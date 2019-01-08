@@ -1,7 +1,7 @@
 ---
 layout: default
 --
-[Link to another page](./README.html).
+[Link to another page](./README.md).
 
 # Lýsing á vélmennaáföngum Vélmenni I og Vélmenn
 
