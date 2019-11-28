@@ -6,7 +6,7 @@ Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjöl
 
 > Upplýsingatækniskólinn sem er hluti af Tækniskólanum er með tvo áfanga í vélmennafræðum
 ### First Global
-> Nemendur okkar taka þátt í keppnum First Global sem er einskonar heimsmeistarakeppni í vélenna gerð fyrir fólk á aldrinum 15 til 18 ára.
+> Nemendur okkar taka þátt í keppnum First Global sem er einskonar heimsmeistarakeppni í vélmenna gerð fyrir fólk á aldrinum 15 til 18 ára.
 ![First Global keppni](https://eirben.github.io/firstglobal.jpg)
 ### Hönnunarkeppni HÍ
 > Nemendur okkar taka þátt í Hönnunarkeppni HÍ sem er á vegum tækni og verkfræðideildar HÍ
