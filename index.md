@@ -20,6 +20,7 @@ Nemendur okkar einbeittir og á fullu í keppninni í Whasington, þetta var óm
 > Nemendur okkar taka þátt í Hönnunarkeppni HÍ sem er á vegum tækni og verkfræðideildar HÍ
 
 ![First Global keppni](https://eirben.github.io/honnunarkeppni_hi.jpg)
+
 Hönnunarkeppni HÍ er mjög kerfjandi enda fyrir háskólanemendur en okkar nemendur fengu að taka þátt og stóðu sig vel
 
 > nánar um keppnina hér:
