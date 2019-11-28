@@ -17,7 +17,7 @@ Keppnin 2017 var haldin í Washington D.C
 Nemendur okkar einbeittir og á fullu í keppninni í Whasington, þetta var ómetanleg reynsla sem þau öfluðu sér og það var gaman hjá þeim. 
 
 ### Hönnunarkeppni HÍ
-> Nemendur okkar taka þátt í Hönnunarkeppni HÍ sem er á vegum tækni og verkfræðideildar HÍ
+> Nemendur okkar taka þátt í Hönnunarkeppni HÍ sem er á vegum tækni og verkfræðideildar HÍ 2018.  Liðið okkar kallaði sig Tölvubraut og endaði í 6. sæti af 12 sem er mjög gott af framhaldsskólanemum enda erum við stolt af þeim
 
 ![First Global keppni](https://eirben.github.io/honnunarkeppni_hi.jpg)
 
