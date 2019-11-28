@@ -3,8 +3,8 @@
 Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjölfarið var þeim boðið á Bessastaði.
 
 ## Um okkur
-
-> Upplýsingatækniskólinn sem er hluti af Tækniskólanum er með tvo áfanga í vélmennafræðum
+Upplýsingatækniskólinn sem er hluti af Tækniskólanum er með tvo áfanga í vélmennafræðum, nám hjá okkur hentar nemendum sem vilja
+mennta sig í t.d tölfunarfræði, verkfræði og tæknifræði.  Nemendur læra forritun, fá að setja saman og búa til vélmenni sem leysir hinar ýmsu þrautir. Áfanganir í vélmennafræðum eru tveir ![Vélmenni I](https://eirben.github.io/rob2a/)  og ![Vélmenni II](https://eirben.github.io/rob2b3u/) 
 ### First Global
 > Nemendur okkar taka þátt í keppnum First Global sem er einskonar heimsmeistarakeppni í vélmenna gerð fyrir fólk á aldrinum 15 til 18 ára.
 ![First Global keppni](https://eirben.github.io/firstglobal.jpg)
@@ -31,7 +31,7 @@ end
 ```
 
 #### Header 4
-###[Næsta](another-page.md)
+[Næsta](another-page.md)
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
