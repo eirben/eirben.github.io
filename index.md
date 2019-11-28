@@ -7,7 +7,7 @@ Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjöl
 > Upplýsingatækniskólinn sem er hluti af Tækniskólanum er með tvo áfanga í vélmennafræðum
 >
 > Nemendur okkar taka þátt í keppnum First Global
-![First Global keppni](https://eirben.github.io/firstglobal1.jpg)
+![First Global keppni](https://eirben.github.io/firstglobal.jpg)
 ### Header 3
 
 ```js
