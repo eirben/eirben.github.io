@@ -6,8 +6,8 @@ Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjöl
 
 > Upplýsingatækniskólinn sem er hluti af Tækniskólanum er með tvo áfanga í vélmennafræðum
 >
-> When something is important enough, you do it even if the odds are not in your favor.
-
+> Nemendur okkar taka þátt í keppnum First Global og sýningum
+![First Global keppni](https://eirben.github.io/firstglobal.jpg)
 ### Header 3
 
 ```js
