@@ -1,10 +1,10 @@
 # Vélmenni I og Vélmenni II
 ![Á Bessastöðum](https://eirben.github.io/bessasta%C3%B0ir-t%C3%A6knisk%C3%B3linn.jpg)
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjölfarið var þeim boðið á Bessastaði.
 
-## Header 2
+## Um okkur
 
-> This is a blockquote following a header.
+> Upplýsingatækniskólinn sem er hluti af Tækniskólanum er með tvo áfanga í vélmennafræðum
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
