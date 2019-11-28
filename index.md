@@ -4,7 +4,7 @@ layout: default
 [include](File:./README.md).
 
 # Vélmenni I og Vélmenni II
-![Á Bessastöðum](https://guides.github.com/activities/hello-world/branching.png)
+![Á Bessastöðum](https://eirben.github.io/bessasta%C3%B0ir-t%C3%A6knisk%C3%B3linn.jpg)
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
