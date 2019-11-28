@@ -21,6 +21,7 @@ Nemendur okkar einbeittir og á fullu í keppninni í Whasington, þetta var óm
 ![First Global keppni](https://eirben.github.io/honnunarkeppni_hi.jpg)
 
 Nemendur okkar tóku þátt í Hönnunarkeppni HÍ sem er á vegum tækni og verkfræðideildar HÍ 2018.  Liðið okkar kallaði sig Tölvubraut og endaði í 6. sæti af 12 sem er mjög gott af framhaldsskólanemum enda erum við stolt af þeim. Við stefnum að því að taka þátt sem oftast.
+Þeir nemendur sem taka þátt í Hönnunarkeppni HÍ fá ígildi áfanga metin fyrir framlagið enda er mikil vinna sem fer í hanna og búa til vélmenni þetta eru 5 feiningar.
 Nánar um keppnina hér:
 
 > [Hönnunarkeppni](https://www.facebook.com/HonnunarkeppniHI/)
