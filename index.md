@@ -14,7 +14,7 @@ mennta sig í t.d tölfunarfræði, verkfræði og tæknifræði.  Nemendur lær
 ![First Global keppni](https://eirben.github.io/firstglobal.jpg)
 Keppnin 2017 var haldin í Washington D.C
 ![First Global keppni](https://eirben.github.io/firstglobal5.jpg)
-Nemendur okkar einbeittir og á fullu í keppninni í Whasington, þetta var ómetanleg reynsla sem þau öfluðu sér og það var gaman hjá þeim. 
+Nemendur okkar einbeittir og á fullu í keppninni í Washington, þetta var ómetanleg reynsla sem þau öfluðu sér og það var gaman hjá þeim. 
 
 ### Hönnunarkeppni HÍ
 
