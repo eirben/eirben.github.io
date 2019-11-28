@@ -39,8 +39,8 @@ Nánar um keppnina hér:
 *   Vinna í hóp
 *   Sjálfstæð vinnubrögð
 
-### Vélmenni I áfangalýsing
+### Vélmenni I , áfangalýsing
 Í áfanganum kynnast nemendur vélmennum, hvað er vélmenni og hvaða tækni er notuð . Nemendur kynnast lausnaraðferðum, verkefnastjórnun, samvinnu og að nýta sér þá þekkingu í stærðfræði, eðlisfræði og forritun sem þeir hafa þegar vald á. Eftirfarandi námsþættir verða kenndir: Niðurbrot vandamála úr flókinni hegðun í einafalda hegðun (Behavior ) gerð flæðirita og sauðakóða og að lokum forritun sem vélmenni skilur. Hreyfing (fram,aftur,snúningur) tími og staða. Fjarstýringar (bylgjufræði) og nemar.
 
-### Vélmenni II áfangalýsing
+### Vélmenni II , áfangalýsing
 Vélmenni II seinni áfangi í vélmennum þar sem nemendur byggja og forrita vélmenni til að leysa hinar ýmsu þrautir. Í áfanganum gera nemendur stórt verkefni sem nemendur hanna sjálfir með annað hvort VEX eða Arduino smátölvum. Nemendur gera verkáætlun og verkefnið er brotið niður í minnstu einingar. Logskrár, verkefnalýsing, auðlindir þ.e vébúnaður og hugbúnaður sem þarf, flæðirit, sauðakóði og innleiðing. Öllu er steypt saman í lokaskýrslu og vef sem er með góðri framsetningu og aðgengilegur .
