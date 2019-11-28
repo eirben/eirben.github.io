@@ -11,8 +11,8 @@ Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjöl
 ### Hönnunarkeppni HÍ
 > Nemendur okkar taka þátt í Hönnunarkeppni HÍ sem er á vegum tækni og verkfræðideildar HÍ
 ![First Global keppni](https://eirben.github.io/honnunarkeppni_hi.jpg)
->nánar um keppnina hér :
-[Hönnunarkeppni](https://www.facebook.com/HonnunarkeppniHI/)
+> nánar um keppnina hér
+> [Hönnunarkeppni](https://www.facebook.com/HonnunarkeppniHI/)
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
