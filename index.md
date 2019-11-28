@@ -8,9 +8,11 @@ Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjöl
 ### First Global
 > Nemendur okkar taka þátt í keppnum First Global sem er einskonar heimsmeistarakeppni í vélmenna gerð fyrir fólk á aldrinum 15 til 18 ára.
 ![First Global keppni](https://eirben.github.io/firstglobal.jpg)
+
 ### Hönnunarkeppni HÍ
 > Nemendur okkar taka þátt í Hönnunarkeppni HÍ sem er á vegum tækni og verkfræðideildar HÍ
 ![First Global keppni](https://eirben.github.io/honnunarkeppni_hi.jpg)
+
 > nánar um keppnina hér
 > [Hönnunarkeppni](https://www.facebook.com/HonnunarkeppniHI/)
 ```js
