@@ -1,6 +1,7 @@
 # Vélmenni I og Vélmenni II
 ![Á Bessastöðum](https://eirben.github.io/bessasta%C3%B0ir-t%C3%A6knisk%C3%B3linn.jpg)
 Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjölfarið var þeim boðið á Bessastaði.
+frá vinstri Guðni Natan, Flosi, Eiríkur kennari, Róbert, Guðni Th forseti, Guðrún aðstoðar sskólameistari,Inga og síðast en ekki síst Kormákur.
 
 ## Um okkur
 Upplýsingatækniskólinn sem er hluti af Tækniskólanum er með tvo áfanga í vélmennafræðum, nám hjá okkur hentar nemendum sem vilja
@@ -11,12 +12,16 @@ mennta sig í t.d tölfunarfræði, verkfræði og tæknifræði.  Nemendur lær
 ### First Global
 > Nemendur okkar taka þátt í keppnum First Global sem er einskonar heimsmeistarakeppni í vélmenna gerð fyrir fólk á aldrinum 15 til 18 ára.
 ![First Global keppni](https://eirben.github.io/firstglobal.jpg)
+Keppnin 2017 var haldin í Washington D.C
+![First Global keppni](https://eirben.github.io/firstglobal5.jpg)
+Nemendur okkar einbeittir og á fullu í keppninni í Whasington, þetta var ómetanleg reynsla sem þau öfluðu sér og það var gaman hjá þeim. 
 
 ### Hönnunarkeppni HÍ
 > Nemendur okkar taka þátt í Hönnunarkeppni HÍ sem er á vegum tækni og verkfræðideildar HÍ
 ![First Global keppni](https://eirben.github.io/honnunarkeppni_hi.jpg)
+Hönnunarkeppni HÍ er mjög kerfjandi enda fyrir háskólanemendur en okkar nemendur fengu að taka þátt og stóðu sigvel
+> nánar um keppnina hér:
 
-> nánar um keppnina hér
 > [Hönnunarkeppni](https://www.facebook.com/HonnunarkeppniHI/)
 ```js
 // Javascript code with syntax highlighting.
