@@ -1,7 +1,7 @@
 # Vélmenni I og Vélmenni II
 ![Á Bessastöðum](https://eirben.github.io/bessasta%C3%B0ir-t%C3%A6knisk%C3%B3linn.jpg)
 Nemendur Tækniskólans tóku þátt í First Global vélmennakeppni og í kjölfarið var þeim boðið á Bessastaði.
-frá vinstri Guðni Natan, Flosi, Eiríkur kennari, Róbert, Guðni Th forseti, Guðrún aðstoðar sskólameistari,Inga og síðast en ekki síst Kormákur.
+frá vinstri Guðni Natan, Flosi, Eiríkur kennari, Róbert, Guðni Th forseti, Guðrún aðstoðar skólameistari,Inga og síðast en ekki síst Kormákur.
 
 ## Um okkur
 Upplýsingatækniskólinn sem er hluti af Tækniskólanum er með tvo áfanga í vélmennafræðum, nám hjá okkur hentar nemendum sem vilja
